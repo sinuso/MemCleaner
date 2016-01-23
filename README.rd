@@ -1,4 +1,4 @@
-# MemCleaner
+== About MemCleaner
 Clear RAM Memory Cache, Buffer and Swap Space on Linux
 
   1 Download memcleaner.sh to /path/to/memcleaner.sh
